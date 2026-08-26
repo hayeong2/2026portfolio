@@ -101,7 +101,8 @@ background-color:hwb(197 89% 0%);
   box-sizing: border-box;
   width: 600px;
   height: 270px;
-  margin: 0 auto;
+  /* margin: 0 auto; */
+  margin: auto;
 }
 .url>p {
   margin-bottom: 15px;
