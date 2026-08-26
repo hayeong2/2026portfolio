@@ -115,7 +115,7 @@ background-color:hwb(197 89% 0%);
   text-align: center;
 }
 
-.url a:hover{
+.url>p>a:hover{
   opacity: 0.8;
 }
   
