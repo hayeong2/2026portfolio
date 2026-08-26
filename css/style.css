@@ -115,6 +115,10 @@ background-color:hwb(197 89% 0%);
   text-align: center;
 }
 
+.url a:hover{
+  font-color: 589FDA;
+}
+  
 /* 스크롤바 */
 body::-webkit-scrollbar {
   width: 15px;
